@@ -1,8 +1,1 @@
 /* css styles */
-
-body {
-  background-image: url("background.jpg"); /* Assuming background.jpg is in the same directory as your CSS file */
-  background-repeat: no-repeat; /* Prevents image from repeating */
-  background-size: cover; /* Scales image to cover the entire element */
-  background-position: center; /* Centers the image */
-}
